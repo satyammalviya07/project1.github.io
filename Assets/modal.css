@@ -1,0 +1,68 @@
+.galaxypoupup .modal-dialog {
+	top: 150px;
+}
+
+.galaxypoupup .modal-content {
+	margin: 15px;
+}
+
+.galaxypoupup .modal-header h4 {
+	padding-top: 15px;
+	text-align: center;
+	color: #4472b9;
+}
+
+.galaxypoupup .modal-header p {
+	padding-top: 7px;
+	text-align: center;
+	color: #9f9f9f;
+	font-size: 13px;
+}
+
+.galaxypoupup .modal-header {
+	margin: 0px 15px;
+	padding-bottom: 5px;
+}
+
+.galaxypoupup .modal-body {
+	text-align: center;
+}
+
+.galaxypoupup .modal-body p {
+	font-size: 18px;
+	line-height: 0;
+	margin-top: 10px;
+}
+
+.galaxypoupup .modal-body h3 {
+	line-height: 18px;
+	font-weight: 600;
+	font-size: 22px;
+	color: #000;
+}
+
+.galaxypoupup .modal-content {
+	border-radius: 20px;
+	margin: 15px;
+	box-shadow: none;
+	border: none;
+	padding-bottom: 25px;
+}
+
+.galaxypoupup .modal-content button:last-child {
+	background: #00d1b7;
+	border: none;
+	color: #fff;
+	display: block;
+	margin: auto;
+	border-radius: 6px;
+}
+
+.modal-backdrop {
+	background-color: #5a93ce;
+}
+
+.modal-backdrop.in {
+	filter: alpha(opacity=70);
+	opacity: .7;
+}

@@ -1,0 +1,5 @@
+user type - 1 => employee
+            2 => student
+            3 => admin
+
+ date_default_timezone_set('Asia/Kolkata');
