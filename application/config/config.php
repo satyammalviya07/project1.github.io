@@ -1,15 +1,15 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-
-$config['base_url'] = 'http://localhost/efficientFarming/';
+$config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].'/project1';
+//$config['base_url'] = 'http://localhost/efficientFarming/';
 //$config['base_url'] = 'http://buzinessmorning.com/efficientfarming/';
 
 
 $config['index_page'] = '';
 
 
-$config['uri_protocol'] = 'REQUEST_URI';
+$config['uri_protocol'] = 'AUTO';
 
 
 $config['url_suffix'] = '';
