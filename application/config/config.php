@@ -6,7 +6,7 @@ $config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].'/project1';
 //$config['base_url'] = 'http://buzinessmorning.com/efficientfarming/';
 
 
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 
 $config['uri_protocol'] = 'AUTO';
